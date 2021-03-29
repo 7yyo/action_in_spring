@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Cat {
+
     private String name;
     private Person master;
 
